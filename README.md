@@ -1,4 +1,3 @@
-https://github.com/RaphaelWMR# Raphael Matos
 ## Beginner in Data Analysis
 
 ## 🎓 About Me
